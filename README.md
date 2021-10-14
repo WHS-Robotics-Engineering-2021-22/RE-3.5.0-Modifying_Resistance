@@ -6,7 +6,7 @@ We will work with differing levels of resistance in this lab.  Both series and p
 
 ## Circuit Setup
 
-Import the file in this repository titled, "sample_circuits.txt" into the Circuit Simulator App.  These are not closed.  Add the approprate grounds to all three of the circuits to make them work (the first circuit needs two grounds).  Now build these circuits on your breadboard as practice.
+Import the file in this repository titled, "sample_circuits.txt" into the Circuit Simulator App.  These circuits are not closed.  Add the approprate grounds to all three of the circuits to make them work (the first circuit needs two grounds).  Now build these circuits on your breadboard as practice.
 
 Compare the four different circuits (Remember, the first one is essentially two circuits.)  How would you characterize the relationship between resistance and current?  Be specific by using the current levels in your response.  You may attain these using the app and you may also do this by measuring current with your multimeter.  What would be the reasons for using resistors in series or resistors in parallel?
 
